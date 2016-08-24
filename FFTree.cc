@@ -16,6 +16,7 @@
  */
 
 // Build a FFTree.
+// Current problem is routing. Looks like a routing table entry does not support wild card.
 
 #include <iostream>
 #include <fstream>
